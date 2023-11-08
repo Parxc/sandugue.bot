@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "This is my first discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\\"
+  ],
+  "author": "Josma",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "mathjs": "^12.0.0"
+  },
+  "type": "module"
+}
